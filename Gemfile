@@ -25,3 +25,4 @@ group :development do
 end
 
 gem 'devise'
+gem 'bootstrap-sass'
