@@ -16,3 +16,6 @@
 
 ##UI
 - Bootstrao -> formatting
+
+## Refactor TODOS:
+- Refactor user association integration test in post_spec
